@@ -1,0 +1,59 @@
+.Title
+{
+    text-align: center;
+}
+.hyper
+{
+    text-decoration: underline;
+}
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p
+{
+ font-size: 11px;
+}
+li
+{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    font-size: 11px;
+    color: blue;
+}
+ul
+{
+    background-color: lightgray;
+    height: 40px;
+    text-decoration: none;
+    
+}
+ul li
+{
+    text-decoration: none;
+}
+.tag
+{
+    size: 12px;
+    display: inline-block;
+    
+}
+.code
+{
+    height: 175px;
+}
+pre
+{
+    color: red;
+}
+.color
+{
+    color: black;
+}
+.i 
+{
+    color: red;
+}
+
